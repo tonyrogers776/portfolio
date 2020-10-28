@@ -1,0 +1,1 @@
+"undefined"!=typeof i18n?i18n.add({"en-US":{languages:{"de-DE":"German","en-US":"English",es:"Spanish","fr-FR":"French","pt-BR":"Portuguese","it-IT":"Italian","nl-NL":"Dutch"}}}):setTimeout(function(){throw new Error("i18n is not defined 😭")});

@@ -1,0 +1,1 @@
+"undefined"!=typeof i18n?i18n.add({"en-US":{cms_ui:{dumb_change_to_trigger_update:"Back",guidebookChapter:{back:"Back",next:"Next"}}}}):setTimeout(function(){throw new Error("i18n is not defined 😭")});

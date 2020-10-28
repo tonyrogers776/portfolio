@@ -1,0 +1,228 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+a {
+    color: blue;
+}
+
+body {
+    margin: 0 0 100px;
+    padding-bottom: 100px;
+    background-color: whitesmoke;
+    font-family: 'Varela Round', sans-serif;
+}
+
+footer {
+    background-color: rgb(48, 167, 94);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, li {
+    text-shadow: 2px 2px 5px grey;
+    margin-bottom: 10px;
+}
+
+header {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    margin-top: 50px;
+
+}
+
+#tony {
+    position: relative;
+    background-color: rgb(48, 167, 94);
+    padding: 10px;
+    border-radius: 200px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    box-shadow: 5px 10px 20px grey;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:rgb(48, 167, 94);
+    padding: 10px;
+    box-shadow: 5px 5px 20px grey;
+    margin-bottom: 50px;
+}
+
+.navbar a {
+    color: blue;
+    font-size: x-large;
+    text-shadow: 1px 1px 5px grey;
+    
+}
+
+.slide-in-from-right{
+    position: relative;
+    display: inline-block;
+    background-color: rgb(48, 167, 94);
+    width: 50%;
+    margin-left: 100%;
+    text-align: center;
+    padding: 5%;
+    border-radius: 10px;
+    margin-top: 50px;
+    box-shadow: 5px 10px 20px grey;
+}
+
+#skills img {
+    margin-right: 10px;
+}
+
+#about-me a {
+    color: blue;
+    text-decoration: underline;
+}
+
+#about-me h3 {
+    margin-bottom: 50px;
+}
+
+#skills {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#skills ul {
+    display: inline-block;
+    margin: 50px;
+    font-size: large;
+    
+}
+
+#about-me p {
+    font-size: large;
+
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#horizon {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(48, 167, 94);
+    padding: 10px;
+    border-radius: 50px;
+    box-shadow: 5px 10px 20px grey;
+    
+}
+
+#soundcloud {
+    background-color: darkorange;
+    box-shadow: 5px 10px 20px grey;
+    margin-top: 50px;
+    display: inline;
+}
+
+#music-body {
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(48, 167, 94);
+    box-shadow: 5px 10px 20px grey;
+    padding: 50px;
+    margin-bottom: 25px;
+    margin-bottom: 100px;
+}
+
+iframe {
+    margin: 50px;
+}
+
+#djentjam {
+    background-color:rgb(48, 167, 94);
+    border-radius: 10px;
+    padding: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#port-body {
+    text-align: center;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+#primary {
+    margin-top: 100px;
+}
+
+#secondary {
+    margin-top: 250px;
+}
+
+#secondary img {
+    margin-left: 10px;
+    margin-right: 25px;
+}
+
+#education {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.center p {
+    font-size: large;
+    margin-top: 25px;
+}
+
+#port-header {
+    margin-bottom: 100px;
+    text-decoration: underline;
+}
+
+#youtube-background {
+    box-shadow: 5px 10px 20px grey;
+}
+
+#tracklist{
+    text-align: center;
+}
+
+#music-bottom {
+    text-align: center;
+
+}
+
+#youtube-button {
+    display: inline;
+    background-color: rgb(255, 52, 52);
+    box-shadow: 5px 10px 20px grey;
+    margin-left: 50px;
+}
+
+.slide-in-from-left {
+    margin-right: 80%;
+    opacity: 0.1;
+    position: relative;
+    
+}
+
+.projects {
+    position: relative;
+    margin-left: 50%;
+}
